@@ -1,7 +1,10 @@
 # nvidia-overclock-scripts
 Scripts to overclock + optimize Nvidia GPUs for cryptocurrency mining.
 
-## ** DISCLAIMER: USE AT YOUR OWN RISK. NOT RESPONSIBLE FOR DAMAGES! **
+These should be a good starting point if you have a GTX 1070 TI, GTX 1080 TI, or a 1080 TI FTW3.
+
+### DISCLAIMER: USE AT YOUR OWN RISK. NOT RESPONSIBLE FOR DAMAGES!
+#### Make sure to customize the scripts for your own system.
 
 ## Getting Started
 1) Install Latest Nvidia Drivers.
@@ -21,7 +24,7 @@ Scripts to overclock + optimize Nvidia GPUs for cryptocurrency mining.
 * `overclock-x17.sh` X17 (Verge, etc.)
 
 ## GPU Setup
-My GPU setup is as follows. Make sure to customize the settings to match your configuration.
+My GPU setup is as follows. Make sure to customize the scripts to match your system.
 * GPU 0: `GTX 1070 TI`
 * GPU 1: `GTX 1070 TI`
 * GPU 2: `GTX 1070 TI`
@@ -30,3 +33,9 @@ My GPU setup is as follows. Make sure to customize the settings to match your co
 * GPU 5: `GTX 1080 TI SC Black`
 * GPU 6: `GTX 1080 TI SC Black`
 * GPU 7: `GTX 1080 TI SC Black`
+
+## Donations
+Have these scripts helped? Buy me a cup of coffee.
+* Bitcoin: `3ABB4YVqcAeLvLT7xuQnU7E3pve5PFEb2b`
+* Zcash: `t1dH8LczJmvFTunDXUVxWi2EkHqfSaeghvo`
+* Vertcoin: `VsWHahAinFFELKRNiuuYRJ9zhd58PDbtUN`
