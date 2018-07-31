@@ -17,7 +17,8 @@ Scripts to overclock + optimize Nvidia GPUs for cryptocurrency mining.
 * `overclock-equihash.sh` Equihash (Zcash, Zclassic, Bitcoin Private, etc.)
 * `overclock-equihash-lowpower.sh` Equihash w/ reduced power. Average = 4.46 sol/watt.
 * `overclock-lyra2v2.sh` Lyra2REv2 (Vertcoin, Verge, Monacoin, etc.)
-
+* `overclock-x16r.sh` X16R (Ravencoin, etc.)
+* `overclock-x17.sh` X17 (Verge, etc.)
 
 ## GPU Setup
 My GPU setup is as follows. Make sure to customize the settings to match your configuration.
